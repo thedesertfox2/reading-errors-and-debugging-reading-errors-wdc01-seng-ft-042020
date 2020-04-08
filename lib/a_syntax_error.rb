@@ -1,2 +1,2 @@
 x = 1
-put x
+puts x
